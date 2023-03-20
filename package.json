@@ -9,8 +9,21 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "@react-three/drei": "^9.57.3",
+    "@types/styled-components": "^5.1.26",
+    "drei": "^2.2.21",
+    "emailjs": "^4.0.1",
+    "emailjs-com": "^2.6.4",
+    "framer-motion": "^10.6.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.9.0",
+    "react-simple-maps": "^3.0.0",
+    "react-three-fiber": "^6.0.13",
+    "styled-components": "^5.3.9",
+    "three": "^0.150.1",
+    "three-subdivision-modifier": "^1.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
